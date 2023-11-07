@@ -10,10 +10,10 @@ Welcome to the official GitHub repository designed exclusively for students part
 
 ## README.md must consist of the following information:
 
-#### Student Name       - _________________
-#### Department & Year  - _________________
-#### College Name       - _________________
-#### Email              - _________________
+#### Student Name       - TAMIRI MOUNYA KRISHNA
+#### Department & Year  - CSE 4TH YEAR
+#### College Name       - PUDUCHERRY TECHNOLOGICAL UNIVERSITY
+#### Email              - TAMIRI.MOUNYAKRISHAN@GMAIL.COM
 
  #### project video link:
 
